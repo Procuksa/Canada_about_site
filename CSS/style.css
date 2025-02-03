@@ -1,0 +1,37 @@
+body{background-color: black;}
+
+header{background-color: #AC011C;;width: 1425px; height: 350px;border-radius: 75px;}
+
+h1{text-align: center;font-size: 90px;color: white;font-family: Impact;position: absolute;
+top: 75px;
+left: 450px;}
+
+
+
+h1{text-align: center;color: white;font-size: 64px;font-family: 'M PLUS Rounded 1c', sans-serif;}
+h1::before{content: url(https://i.postimg.cc/qvJMxqBx/free-icon-canada-321219-3.png);
+    margin: 5px;
+    }
+
+
+h1::after{content: url(https://i.postimg.cc/4yJ02Zmv/free-icon-location-14063270.png);
+   margin: 25px;}
+
+p{font-family: 'M PLUS Rounded 1c', sans-serif;font-size: 25px;color: white;text-align: center;}
+
+
+
+footer{background-color: #AC011C;width: 1425px; height: 200px;border-radius: 75px;}
+
+footer a{color: white;background-color:#F60030;text-decoration: none;padding: 25px;position: absolute;
+top:750px;border-radius: 100px;font-family: 'M PLUS Rounded 1c', sans-serif;width: 200px;text-align: center;font-size: 50px;left: 600px;}
+
+footer a:hover{background-color: #cc0029;transition: 1s;}
+
+.a{position: absolute;
+    top: 500px;
+ left: 150px;}
+
+ .b{position: absolute;
+     top: 500px;
+  left: 1175px;}
